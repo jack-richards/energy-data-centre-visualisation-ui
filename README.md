@@ -1,5 +1,11 @@
 # energy-data-centre-visualisation
 
+## Back-end Application
+https://github.com/jack-richards/energy-data-centre-visualisation-api
+
+## Front-end Application
+https://github.com/jack-richards/energy-data-centre-visualisation-ui
+
 ## Getting started
 
 ### Prerequisites
