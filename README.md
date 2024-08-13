@@ -1,10 +1,10 @@
 # energy-data-centre-visualisation
 
 ## Back-end Application
-https://github.com/jack-richards/energy-data-centre-visualisation-api
+https://github.com/jack-richards/energy-data-visualisation-api
 
 ## Front-end Application
-https://github.com/jack-richards/energy-data-centre-visualisation-ui
+https://github.com/jack-richards/energy-data-visualisation-ui
 
 ## Getting started
 
@@ -18,10 +18,10 @@ https://github.com/jack-richards/energy-data-centre-visualisation-ui
 ### Clone the repositories
 
 ```shell
-git clone https://github.com/jack-richards/energy-data-centre-visualisation-api.git
+git clone https://github.com/jack-richards/energy-data-visualisation-api.git
 ```
 ```shell
-git clone https://github.com/jack-richards/energy-data-centre-visualisation-ui.git
+git clone https://github.com/jack-richards/energy-data-visualisation-ui.git
 ```
 
 ### Download the dataset
